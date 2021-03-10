@@ -1,0 +1,11 @@
+  
+{
+  "name": "Couve Theme",
+  "description": "A new look to discord",
+  "version": "2.0",
+  "authors": "Fabmans06",
+  "tags": [
+    "themes"
+  ],
+  "main": "index.js"
+}
